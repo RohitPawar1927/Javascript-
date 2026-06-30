@@ -23,10 +23,20 @@
 // console.log (`The type of the variable bigNumber is ${typeof bigNumber}`);
 
 // OBJECT
-const student = {
- name: "Rohit",
- age: 20,
- city: 'Nashik'
-}
-console.log (student);
+// const student = {
+//  name: "Rohit",
+//  age: 20,
+//  city: 'Nashik'
+// }
+// console.log (student);
+
+// HOMWORK
+// let car = {
+//     Brand: "TATA",
+//     Model: "Nexon",
+//     Year: 2025,
+//     Price: 1500000,
+//     IsElectric: true
+// }
+// console.log (car)
 
